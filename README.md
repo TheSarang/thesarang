@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=thesarang.thesarang)
 <!--
 **TheSarang/thesarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!-- <h3> Hello🏻, I am Sarang Narkhede. </h3> -->
+<a href="https://twitter.com/narkhede_sarang">
+  <img align="left" alt="Sarang Narkhede | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/narkhedesarang/">
+  <img align="left" alt="Sarang's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
